@@ -52,11 +52,15 @@ A modelagem foi validada em cinco topologias distintas, utilizando a sintaxe **T
 3. Para executar o teste no grafo principal (instância de 15 vértices):
    ```bash
    ./vampire --time_limit 600 models/grande.p
+   ```
 
+## 📁 Estrutura do Repositório
+**/models: Ficheiros .p com axiomas de simetria, fecho de domínio e a conjectura de dominância.**
+**/docs: Relatório técnico completo (PDF) com a fundamentação teórica e análise de resultados.**
+* [/docs](docs/): [Relatório técnico completo (PDF)](docs/Relatorio_Conjunto_Dominante.pdf)
 
+---
 
-
-
-3. Para executar o teste no grafo principal (instância de 15 vértices):
-   ```bash
-   ./vampire --time_limit 600 models/grande.p
+##🎓 Autores
+* [Lucas de Souza Almeida](https://github.com/Lucas-715)
+* [Ruan David da Silva Barros](LINK_DO_PERFIL_GITHUB_FUTURAMENTE)
