@@ -55,9 +55,9 @@ A modelagem foi validada em cinco topologias distintas, utilizando a sintaxe **T
    ```
 
 ## 📁 Estrutura do Repositório
-**/models: Ficheiros .p com axiomas de simetria, fecho de domínio e a conjectura de dominância.**
-**/docs: Relatório técnico completo (PDF) com a fundamentação teórica e análise de resultados.**
-* [/docs](docs/): [Relatório técnico completo (PDF)](docs/Relatorio_Conjunto_Dominante.pdf)
+
+* **[/models](models/)**: Arquivos `.p` com axiomas de simetria, fecho de domínio e a conjectura de dominância.
+* **[/docs](docs/)**: [Relatório Técnico Completo (PDF)](docs/Relatório%20do%20Conjunto%20Dominante%20-%20Ruan%20e%20Lucas.pdf) com fundamentação teórica e análise de resultados.
 
 ---
 
